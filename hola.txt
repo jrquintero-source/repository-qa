@@ -1,1 +1,2 @@
 mi primer exercise con git en mi laptop
+segunda linea al archivo hola.txt
